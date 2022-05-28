@@ -60,12 +60,12 @@ To analyze ATR and calculate ASR.
 
 *  for MNIST, run
 ``` 
-sh rrun_process_exp.sh mnist 15 0.25 600 0.1
+sh run_process_exp.sh mnist 15 0.25 600 0.1
 ``` 
 
 *  for CIFAR-10, run
 ``` 
-sh rrun_process_exp.sh cifar 50 0.25 300 0.1
+sh run_process_exp.sh cifar 50 0.25 300 0.1
 ``` 
 
 ## Reference
