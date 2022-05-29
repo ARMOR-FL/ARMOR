@@ -19,7 +19,7 @@ wandb login {YOUR_WANDB_API_KEY}
 
 ## Experiment Scripts
 
-To generate a set of FL models of K clients (for example, K=15),
+To generate a set of FL models of K clients (for example, K=20),
 which is the basis of our following experiments, run
 
 ``` 
