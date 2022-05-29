@@ -17,7 +17,7 @@ wandb login {YOUR_WANDB_API_KEY}
 * Torch 1.10.1
 * Numpy 1.19.5
 
-## Experiment Scriptss
+## Experiment Scripts
 
 To generate a set of FL models of K clients (for example, K=15),
 which is the basis of our following experiments, run
